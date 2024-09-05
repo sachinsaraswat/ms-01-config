@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to TempCo accounts related prod APIs "
+  contactDetails:
+    name: "John Doe - Developer from Account MS - Prod"
+    email: "{cipher}2cdca6f21c04c3be4e54c066df84ccc8a079aab565c1672249c687261309f49cd81f034b078277b0bb533eb5025f2509"
+  onCallSupport:
+    - (955) 555-1234
+    - (955) 523-1345

@@ -1,0 +1,8 @@
+accounts:
+  message: "Welcome to TempCo accounts related Development APIs "
+  contactDetails:
+    name: "John Doe - Developer from Account MS - default"
+    email: "john@TempCo.com"
+  onCallSupport:
+    - (955) 555-1234
+    - (955) 523-1345

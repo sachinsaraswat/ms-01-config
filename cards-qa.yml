@@ -1,0 +1,12 @@
+build:
+  version: "2.5.9"
+
+cardinfo:
+  message: "Welcome to TempCo Cards related QA01 APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@TempCo.com"
+  onCallSupport:
+    - (800) 555-1234
+    - (800) 523-1345
+    

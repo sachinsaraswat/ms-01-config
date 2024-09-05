@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to TempCo accounts related QA APIs "
+  contactDetails:
+    name: "John Doe - Developer from Account MS - QA"
+    email: "john@TempCo.com"
+  onCallSupport:
+    - (955) 555-1234
+    - (955) 523-1345
+    
+runProfile: Qa 333 5.4.2

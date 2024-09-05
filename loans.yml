@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+loancontactinfo:
+  message: "Welcome to TempCo Cards related Development APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@TempCo.com"
+  onCallSupport:
+    - (955) 555-1234
+    - (955) 523-1345
+    
+runProfile: Development 5.4.2

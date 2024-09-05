@@ -1,0 +1,13 @@
+build:
+  version: "2.0.1"
+
+loancontactinfo:
+  message: "Welcome to TempCo Cards related Production APIs "
+  contactDetails:
+    name: "John Doe - Developer"
+    email: "john@TempCo.com"
+  onCallSupport:
+    - (500) 555-1234
+    - (500) 523-1345
+    
+runProfile: Prod 1.5.1
