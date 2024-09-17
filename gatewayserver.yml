@@ -19,8 +19,9 @@ management:
   endpoints:
     web:
       exposure:
-        include:  gateway,refresh
-
+        include:
+          - "*"
+          - "gateway"
   endpoint:
     gateway:
       enabled: true
