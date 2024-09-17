@@ -16,6 +16,19 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:7070/eureka/
 
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: "*"
+  endpoint:
+    gateway:
+      enabled: true
+  info:
+    env:
+      enabled: true
+
 management:
   endpoints:
     web:
@@ -30,5 +43,5 @@ management:
 logging:
   level:
     com:
-      eazybytes:
+      tempco:
         gatewayserver: DEBUG
